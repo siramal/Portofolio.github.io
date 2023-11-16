@@ -18,9 +18,7 @@ header img{
     border: solid 3px;
     border-radius: 20px;
     box-shadow: 2px 1px 1000px white;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url(image/shiraito-waterfall-autumn-japan.jpg);
+    background-color: black;
 }
 header{
     position: fixed;
@@ -143,9 +141,7 @@ h3{
     border: solid 3px;
     border-radius: 20px;
     box-shadow: 2px 1px 10px white;
-    background-image: url(image/pemandangan\ 9.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: black;
     background-position: center;
 
 }
@@ -210,9 +206,7 @@ h3{
     border: solid 3px;
     border-radius: 20px;
     box-shadow: 2px 1px 10px white;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url(image/shiraito-waterfall-japan.jpg);
+    background-color: black;
 }
 .title h2{
     color: white;
@@ -281,9 +275,7 @@ h3{
     border: solid 3px;
     border-radius: 20px;
     box-shadow: 2px 1px 10px white;
-    background-repeat: no-repeat;
-    background-image: url(image/wet-vietnam-mountain-flow-stream-rural.jpg);
-    background-size: cover;
+    background-color: black;
 }
 .contact-text h2{
     color: white;
@@ -325,9 +317,7 @@ footer{
     border: solid 3px;
     border-radius: 20px;
     box-shadow: 2px 1px 10px white;
-    background-image: url(image/sunrise-farmland.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: black;
 }
 footer p:nth-child(1){
     font-size: 30px;
@@ -376,9 +366,7 @@ section img{
     width: 100%;
     height: 100vh;
     padding: 10px 0;   
-    background-image: url(image/sunrise-bali-jungle.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: black;
 }
 .img1{
     display: flex;
