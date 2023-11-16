@@ -1,0 +1,499 @@
+@media screen and (max-width:640px ) {
+    .p{
+        margin-right: 1200px;
+    }
+    header img{
+        width: 30px;
+    }
+    header{
+        width: 88%;
+        
+    }
+    .logo{
+        font-size: 40px;
+        letter-spacing: 0px;
+    }
+    header ul li{
+        padding: 5px 5px;
+    }
+    header ul li a{
+        font-size: 9px;
+        padding: 5px 8px;
+    }
+    header a{
+        font-size: 9px;
+        padding: 5px 8px;
+    }
+    .image{
+        width: 30%;
+        height: 87%;
+        bottom: 0px;
+        right: 3px;
+    }
+    h4{
+        font-size: 15px;
+    }
+    h1{
+        font-size: 50px;
+        margin: 10px 0 10px;
+    }
+    h3{
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+    .content a{
+        font-size: 15px;
+        padding: 10px 30px;
+        border-radius: 30px;
+    }
+    .about-me img{
+        margin-left: 1000px;
+    }
+    .about-text h2{
+        font-size: 50px;
+    }
+    .about-text h5{
+        font-size: 20px;
+    }
+    .about-text p {
+        letter-spacing: 0px;
+        line-height: 28px;
+        font-size: 15px;
+        margin-bottom: 45px;
+        margin-right: 180px;
+    }
+    .title h2{
+        font-size: 50px;
+    }
+    
+    .card {
+        width: 40px;
+    }
+    .service img{
+        width: 0px;
+        
+    }
+    .card h5{
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .pra p{
+        font-size: 13px;
+        line-height: 27px;
+        margin-bottom: 25px;
+    }
+    .pra p a{
+        padding: 9px 22px;
+        border-radius: 30px;
+    }
+    .contact{
+        padding: 20px;
+    }
+    .contact h4{
+        font-size: 20px;
+    }
+    .contact p{
+        font-size: 12px;
+    }   
+    .img1 img{
+        width: 90px;
+    }
+    .img2 img{
+        width:80px ;
+    }  
+}
+@media screen and (max-width:670px ) {
+    .p{
+        margin-right: 1200px;
+    }
+    header img{
+        width: 30px;
+    }
+    header{
+        width: 88%;
+        flex-direction: column;
+    }
+    .logo{
+        font-size: 30px;
+        letter-spacing: 0px;
+    }
+    header ul li{
+        padding: 5px 5px;
+    }
+    header ul li a{
+        font-size: 9px;
+        padding: 5px 8px;
+    }
+    header a{
+        font-size: 9px;
+        padding: 5px 8px;
+    }
+    .image{
+        width: 30%;
+        height: 87%;
+        bottom: 0px;
+        right: 3px;
+    }
+    h4{
+        font-size: 15px;
+    }
+    h1{
+        font-size: 50px;
+        margin: 10px 0 10px;
+    }
+    h3{
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+    .content a{
+        font-size: 15px;
+        padding: 10px 30px;
+        border-radius: 30px;
+    }
+    .about-me img{
+        margin-left: 1000px;
+    }
+    .about-text h2{
+        font-size: 50px;
+    }
+    .about-text h5{
+        font-size: 20px;
+    }
+    .about-text p {
+        letter-spacing: 0px;
+        line-height: 28px;
+        font-size: 15px;
+        margin-bottom: 45px;
+        margin-right: 180px;
+    }
+    .title h2{
+        font-size: 50px;
+    }
+    .service{
+        flex-direction: column;
+    }
+    .card {
+        width: 40px;
+    }
+    .service img{
+        width: 0px;
+        
+    }
+    .card h5{
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .pra p{
+        font-size: 13px;
+        line-height: 27px;
+        margin-bottom: 25px;
+    }
+    .pra p a{
+        padding: 9px 22px;
+        border-radius: 30px;
+    }
+    .contact{
+        padding: 20px;
+    }
+    .contact h4{
+        font-size: 20px;
+    }
+    .contact p{
+        font-size: 12px;
+    }   
+    .img1 img{
+        width: 90px;
+    }
+    .img2 img{
+        width:80px ;
+    }
+}
+@media screen and (max-width:720px ) {
+    .p{
+        margin-right: 1200px;
+    }
+    header img{
+        width: 30px;
+    }
+    header{
+        width: 88%;
+    }
+    .logo{
+        font-size: 30px;
+        letter-spacing: 0px;
+    }
+    header ul li{
+        padding: 5px 5px;
+    }
+    header ul li a{
+        font-size: 9px;
+        padding: 5px 8px;
+    }
+    header a{
+        font-size: 9px;
+        padding: 5px 8px;
+    }
+    .image{
+        width: 30%;
+        height: 87%;
+        bottom: 0px;
+        right: 3px;
+    }
+    h4{
+        font-size: 15px;
+    }
+    h1{
+        font-size: 50px;
+        margin: 10px 0 10px;
+    }
+    h3{
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+    .content a{
+        font-size: 15px;
+        padding: 10px 30px;
+        border-radius: 30px;
+    }
+    .about-me img{
+        margin-left: 1000px;
+    }
+    .about-text h2{
+        font-size: 50px;
+    }
+    .about-text h5{
+        font-size: 20px;
+    }
+    .about-text p {
+        letter-spacing: 0px;
+        line-height: 28px;
+        font-size: 15px;
+        margin-bottom: 45px;
+        margin-right: 25px;
+    }
+    .title h2{
+        font-size: 50px;
+    }
+    .card {
+        width: 80px;
+    }
+    .service img{
+        width: 80px;
+    }
+    .card h5{
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .pra p{
+        font-size: 13px;
+        line-height: 27px;
+        margin-bottom: 25px;
+    }
+    .pra p a{
+        padding: 9px 22px;
+        border-radius: 30px;
+    }
+    .contact{
+        padding: 20px;
+    }
+    .contact h4{
+        font-size: 20px;
+    }
+    .contact p{
+        font-size: 12px;
+    }   
+    .img1 img{
+        width: 90px;
+    }
+    .img2 img{
+        width:80px ;
+    }
+}
+@media screen and (max-width:840px ) {
+    .p{
+        margin-right: 1410px;
+    }
+    header img{
+        width: 40px;
+    }
+    header{
+        width: 88%;
+        flex-direction: column;
+    }
+    .logo{
+        font-size: 28px;
+        letter-spacing: 0,5px;
+    }
+    header ul li{
+        padding: 5px 10px;
+    }
+    header ul li a{
+        font-size: 11px;
+        padding: 5px 8px;
+    }
+    header a{
+        font-size: 11px;
+        padding: 5px 8px;
+    }
+    .image{
+        width: 30%;
+        height: 87%;
+        bottom: 0px;
+        right: 3px;
+    }
+    h4{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 60px;
+        margin: 10px 0 10px;
+    }
+    h3{
+        font-size: 18px;
+        margin-bottom: 50px;
+    }
+    .content a{
+        font-size: 18px;
+        padding: 10px 30px;
+        border-radius: 30px;
+    }
+    .about-me img{
+        margin-left: 1000px;
+    }
+    .about-text h2{
+        font-size: 60px;
+    }
+    .about-text h5{
+        font-size: 20px;
+    }
+    .about-text p {
+        letter-spacing: 1px;
+        line-height: 28px;
+        font-size: 18px;
+        margin-bottom: 45px;
+    }
+    .title h2{
+        font-size: 60px;
+    }
+    .card {
+        width: 150px;
+    }
+    .service img{
+        width: 150px;
+    }
+    .card h5{
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .pra p{
+        font-size: 15px;
+        line-height: 27px;
+        margin-bottom: 25px;
+    }
+    .contact{
+        padding: 30px;
+    }
+    .contact p{
+        font-size: 15px;
+    }   
+    .img1 img{
+        width: 150px;
+    }
+    .img2 img{
+        width:150px ;
+    }
+}
+@media screen and (max-width:810px ) {
+    .p{
+        margin-right: 1410px;
+    }
+    header img{
+        width: 40px;
+    }
+    header{
+        width: 88%;
+        flex-direction: column;
+    }
+    .logo{
+        font-size: 28px;
+        letter-spacing: 0,5px;
+    }
+    header ul li{
+        padding: 5px 10px;
+    }
+    header ul li a{
+        font-size: 11px;
+        padding: 5px 8px;
+    }
+    header a{
+        font-size: 11px;
+        padding: 5px 8px;
+    }
+    .image{
+        width: 30%;
+        height: 87%;
+        bottom: 0px;
+        right: 3px;
+    }
+    h4{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 60px;
+        margin: 10px 0 10px;
+    }
+    h3{
+        font-size: 18px;
+        margin-bottom: 50px;
+    }
+    .content a{
+        font-size: 18px;
+        padding: 10px 30px;
+        border-radius: 30px;
+    }
+    .about-me img{
+        margin-left: 1000px;
+    }
+    .about-text h2{
+        font-size: 60px;
+    }
+    .about-text h5{
+        font-size: 20px;
+    }
+    .about-text p {
+        letter-spacing: 1px;
+        line-height: 28px;
+        font-size: 18px;
+        margin-bottom: 45px;
+    }
+    .title h2{
+        font-size: 60px;
+    }
+    .card {
+        width: 150px;
+    }
+    .service img{
+        width: 150px;
+    }
+    .card h5{
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .pra p{
+        font-size: 15px;
+        line-height: 27px;
+        margin-bottom: 25px;
+    }
+    .contact{
+        padding: 30px;
+    }
+    .contact p{
+        font-size: 15px;
+    }   
+    .img1 img{
+        width: 150px;
+    }
+    .img2 img{
+        width:150px ;
+    }
+}
